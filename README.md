@@ -3,6 +3,7 @@
 
 设定指定目录递归替换指定文件中符合条件的字符串
 
+* 需求前置 pyyaml
 
 ![image](https://github.com/user-attachments/assets/1e6d842e-3484-4062-a633-7b245a723b0d)
 
